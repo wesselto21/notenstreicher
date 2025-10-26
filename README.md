@@ -14,7 +14,7 @@ Das Tool zeigt:
 
 ### 1. Repository klonen
 ```bash
-git clone <repository-url>
+git clone https://github.com/wesselto21/notenstreicher.git
 cd Notenstreicher
 ```
 
