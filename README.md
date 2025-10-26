@@ -1,14 +1,14 @@
 ## 🎯 Was macht das Tool?
 
-Das Tool zeigt:
+**Das Tool berechnet die optimale Streichung von Fächern für den RWTH Aachen Wirtschaftsingenieurwesen Bachelor, aber universell einsetzbar!-> eventuelle gelten andere Notenstreichungsregelungen für euren Studiengang und ihr müsst den code leicht anpassen. Schaut dafür am besten mal in eure Prüfungsordnung!**
+
+Die Ausgabe zeigt:
 1. **Alle Fächer** mit Details (ID, Note, ECTS, Kategorie)
 2. **Statistiken** (Anzahl Fächer, Gesamt-ECTS, aktueller Durchschnitt)
 3. **Optimale Lösung** (neuer Durchschnitt, gestrichene ECTS)
 4. **Empfohlene Streichungen** mit Begründung
 5. **Verbesserung** in Notenpunkten
 
-**Entwickelt für RWTH Aachen Wirtschaftsingenieurwesen, aber universell einsetzbar!-> eventuelle gelten andere Notenstreichungsregelungen für euren Studiengang und ihr müsst den code leicht anpassen. Schaut dafür am besten mal in eure Prüfungsordnung**
-**Andere Studenten müssen ihre eigenen Fächer in der `main()` Funktion eintragen, bevor sie das Tool verwenden können!**
 
 ## 🚀 Schnellstart
 
